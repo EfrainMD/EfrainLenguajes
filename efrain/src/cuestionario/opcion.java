@@ -9,6 +9,6 @@ package cuestionario;
  *
  * @author T-102
  */
-class ArraysList<T> {
+public class opcion {
     
 }
